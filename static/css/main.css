@@ -1,0 +1,31 @@
+.extra-margin-lg {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+form > input {
+  width: 100%;
+  display: block;
+  margin: 25px auto;
+}
+
+.card {
+  margin-top: 25px;
+}
+
+.card-title{
+  font-weight: bold;
+  font-size: 30px;
+  padding: 10px 15px;
+}
+
+.card-text {
+  font-size: 22px;
+  padding: 25px;
+}
+
+h2 {
+  display: block;
+  margin: 25px auto;
+  text-align: center;
+}
